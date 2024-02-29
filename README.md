@@ -22,13 +22,15 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop screenshot](./screenshots/social-links.png.png)
-![mobile screenshot](./screenshots/social-links-profile-mobile.png.png)
+<p align=center>
+<img src="./screenshots/social-links-profile-mobile.png" height = "400"/>
+<img src="./screenshots/social-links.png" height = "400"/>
+</p>
 
 ### Links
 
-- Solution URL: [ solution URL](https://your-solution-url.com)
-- Live Site URL: [ live site URL](https://your-live-site-url.com)
+- Solution URL: [ solution URL](https://github.com/moha-tangx/social-links-profile-main)
+- Live Site URL: [ live site URL](https://moha-tangx.github.io/social-links-profile-main/)
 
 ## My process
 
@@ -41,4 +43,4 @@ Users should be able to:
 
 - Website - [moha_tangx](https://www.moha_tangx_dev.com)
 - Twitter - [@moha_tangx](https://www.twitter.com/moha_tangx)
-- Frontend Mentor - [@moha_tangx](https://www.frontendmentor.io/profile/moha_tangx)
+- Frontend Mentor - [@moha_tangx](https://www.frontendmentor.io/profile/moha-tangx)
